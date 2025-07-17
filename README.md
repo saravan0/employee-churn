@@ -119,21 +119,3 @@ Our final work would look like this:
             001                                           0.98
             002                                           0.12
             003                                           0.37
-
-
-## RESOURCES
-Here are some ressources you would read to have a good understanding of tools, packages and concepts used in the project:
-- [How to improve machine learning models](https://neptune.ai/blog/improving-ml-model-performance)
-- [Machine Learning tutorial - A step by step guide](https://github.com/eaedk/Machine-Learning-Tutorials/blob/main/ML_Step_By_Step_Guide.ipynb)
-- [Create user interfaces for machine learning models](https://www.youtube.com/watch?v=RiCQzBluTxU)
-- [Getting started with Streamlit](https://docs.streamlit.io/library/get-started)
-
-
-## CONTRIBUTORS
-| NAME  |   COUNTRY |   E-MAIL  |
-|:------|:----------|:----------|
-|ELVIS DARKO|GHANA|elvis_darko@outlook.com|
-|           |       |           |
-|           |       |           |
-
-
